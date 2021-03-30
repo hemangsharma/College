@@ -1,4 +1,4 @@
-#Q2. Write a deterministic automata code for the language with ∑={0,1} accepts the set of all strings with three consecutive 1's.
+#Q. Write a deterministic automata code for the language with ∑={0,1} accepts the set of all strings with three consecutive 1's.
 #!pip install automata-lib
 
 
